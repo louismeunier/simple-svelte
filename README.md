@@ -1,1 +1,5 @@
-_svelte + ts + vite ( + prettier)_
+use as a template:
+
+```shell
+degit louismeunier/simple-svelte
+```
