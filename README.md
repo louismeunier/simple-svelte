@@ -1,1 +1,1 @@
-*svelte + ts + vite ( + prettier)*
+_svelte + ts + vite ( + prettier)_
